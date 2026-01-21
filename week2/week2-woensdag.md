@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `[20/01/2026]`  
+**Datum:** `[21/01/2026]`  
 **Studentnaam:** `[Joren Frederickx]`  
 **Groepsnaam:** `[Groep W]`
 
@@ -12,24 +12,24 @@
 
 > **Activiteiten:**
 >
-> - Ik heb aan de homepagina gewerkt.
+> - Ik heb de homepage zo goed als afgewerkt. Er moeten alleen nog maar een paar kleine tweaks gebeuren.
 
 ---
 
 ## 2) Wat heb ik nieuw geleerd of voor het eerst zelf gedaan?
 
-- SVG elementen
+- Slides
 
 > **Nieuwe skills:**
 >
-> - Ik heb beter geleerd met svg elementen te werken.
+> - Ik heb voor het eerst met slides gewerkt in javascript.
 
 ---
 
 ## 3) Wat is mijn gevoel over vandaag?
 
-Goed, coderen ging soepel vandaag.
+We zijn goed bezig, nu niet afzwakken.
 
 > **Algmeeen gevoel:**
 
-Blij.
+Tevreden.
