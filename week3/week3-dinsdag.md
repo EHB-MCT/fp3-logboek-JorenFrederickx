@@ -33,7 +33,7 @@
 ## 3) Wat is mijn gevoel over vandaag?
 
 Goed, maar ik vind het ambetant dat ik er deze ochtend niet was omdat ik was gaan filmen. Ik heb het gevoel dat ik echt actief moet zijn in de groep dus dan is het minder goed als ik afwezig ben, ookal is het voor een opdracht. Ondanks dat gaat het heel goed in de groep. Iedereen werkt gemotiveerd.
-En mijn rol als product owner verul ik goed, ik was de rest van de dag wel aanwezig en heb veel kunnen bijdragen aan het project om te zien dat het de juiste kant op gaat. Ook zet ik mij in de positie van de klant (nu met de video te maken) wat moet voor mijn rol. En het helpt mij veel en ik vind dat ik goede inzichten heb.
+En mijn rol als product owner vervul ik goed, ik was de rest van de dag wel aanwezig en heb veel kunnen bijdragen aan het project om te zien dat het de juiste kant op gaat. Ook zet ik mij in de positie van de klant (nu met de video te maken) wat moet voor mijn rol. En het helpt mij veel en ik vind dat ik goede inzichten heb.
 
 > **Algmeeen gevoel:**
 
